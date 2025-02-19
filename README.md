@@ -1,4 +1,5 @@
-Project Overview
+Project Overview:
+
 This project is a web application developed using JSP (JavaServer Pages), Servlet, JDBC (Java Database Connectivity), and MySQL. The application is built to fulfill the requirements of the assignment, and it is based on one of the following scenarios:
 
 Todo App: A simple task management application where users can create, update, delete, and view tasks.
